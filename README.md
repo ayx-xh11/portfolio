@@ -34,7 +34,7 @@ PRD.md
 
 ## Local preview
 
-From the `website` directory, serve the `src` folder with any static file server. With Python installed:
+From the `website` directory, serve the `src` folder with any static file server. With Python installed:  
 
 ```powershell
 py -3 -m http.server 4173 --directory src
