@@ -1,0 +1,9 @@
+{
+  "name": "ayush-jaiswal-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test && node --check src/js/app.js && node --check src/js/gravity-grid.js"
+  }
+}
